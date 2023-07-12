@@ -1,0 +1,9 @@
+#sidenav {
+    width: fit-content;
+    text-align: center;
+}
+
+.effects {
+    transition: transform .3s;
+    transform: scaleX(1);
+}
